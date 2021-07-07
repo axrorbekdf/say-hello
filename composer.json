@@ -1,0 +1,15 @@
+{
+   "name":"mytest/hello-world",
+   "authors":[
+      {
+         "name":"Ahrorbek"
+      }
+   ],
+   "require":{
+   },
+   "autoload":{
+      "psr-0":{
+         "HelloWorld":"src/"
+      }
+   }
+}
